@@ -1,4 +1,5 @@
 server:
   port: 3344
-test：
-  ok： ok
+  
+test:
+  ok: ok
