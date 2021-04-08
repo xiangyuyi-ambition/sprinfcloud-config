@@ -2,4 +2,4 @@ server:
   portpos: 3344
   
 test:
-  ok: ok32
+  ok: ok11
